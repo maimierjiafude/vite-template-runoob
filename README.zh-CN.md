@@ -83,7 +83,7 @@ pnpm i
 
 ### 开发
 
-只需要执行以下命令就可以在 http://localhost:5073 中看到
+只需要执行以下命令就可以在 http://localhost:5173 中看到
 
 ```bash
 pnpm run dev
